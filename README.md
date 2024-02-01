@@ -7,30 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Weiterführende Literatur und Informationen zum Thema KI:</title>
-<style>
-code{white-space: pre-wrap;}
-span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
-div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see quarto-dev/quarto-cli#4556 */ 
-  vertical-align: middle;
-}
-</style>
 
-
-<script src="literatur_files/libs/clipboard/clipboard.min.js"></script>
-<script src="literatur_files/libs/quarto-html/quarto.js"></script>
-<script src="literatur_files/libs/quarto-html/popper.min.js"></script>
-<script src="literatur_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="literatur_files/libs/quarto-html/anchor.min.js"></script>
-<link href="literatur_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="literatur_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="literatur_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="literatur_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="literatur_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 
